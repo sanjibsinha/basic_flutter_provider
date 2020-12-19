@@ -22,6 +22,8 @@ void main() {
     // and it provides an instance of a ChangeNotifier to the widgets,
     // which have already subscribed to it
     // we should place the ChangeNotifierProvider Just above the widgets that need to access it.
+    // you will understand provider better if you already have understood how
+    // InheritedWidget works
     ChangeNotifierProvider(
       create: (context) =>
           CountingTheNumber(), // designed Model is provided to the desired widgets

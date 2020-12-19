@@ -1,6 +1,9 @@
 # basic_flutter_provider
 
-A new Flutter project.
+A new Flutter project for abdolute beginners who want to understand the concept of provider.
+I have written about it on my blog. 
+
+- [What is Flutter provider? How provider flutter work?](https://zerodotone.net/what-is-flutter-provider-how-does-provider-flutter-work)
 
 ## Getting Started
 
